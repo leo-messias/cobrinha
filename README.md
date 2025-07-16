@@ -1,6 +1,6 @@
 # cobrinha
 jogo da cobrinha
-# isntalaçÃo
+# instalação
 windows: 
 
 instalar o python 
